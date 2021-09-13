@@ -12,5 +12,8 @@ If you do Data drived testing , it's always a difficulty to deliver former case 
 Import this package, you will get a queue which saves all the parameters from your main process.
 You can upload and download whatever you like and whenever you want.
 
+from varpool import pool,messager
+
+
 
 
